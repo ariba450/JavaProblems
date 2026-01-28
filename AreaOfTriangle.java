@@ -1,15 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.practiceproblem01;
 
 import java.util.Scanner;
 
-/**
- *
- * @author alvir
- */
+
 public class AreaOfTriangle {
 
     public static void main(String[] args) {

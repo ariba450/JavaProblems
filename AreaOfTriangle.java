@@ -1,7 +1,3 @@
-
-
-package com.mycompany.practiceproblem01;
-
 import java.util.Scanner;
 
 

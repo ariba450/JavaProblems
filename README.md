@@ -1,1 +1,1 @@
-This repository contains solutions to problems covering core concepts in Java.
+This repository contains Java solutions to problems covering concepts like array, methods, constructors and core OOP principles.
